@@ -1,4 +1,4 @@
-# School_Basic_Survey_Trends_enrollment_of_to_the_location_Prefecture_another_university
+# school_basic_survey_trends_enrollment_of_to_the_location_prefecture_another_university
 　【和歌山県　学校基本調査 です。】
 ◆はじめに
 学校基本調査は、文部科学省所管により昭和23年以来毎年全国一斉に実施しているものです。 
